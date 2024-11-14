@@ -3,5 +3,7 @@ Análisis de 6 empresas de consumo masivo e industriales para construir un porta
 
 
 Santiago del Cid, 20210026
+
 José Andrés Segura, 20210137
+
 Juan Pablo Galicia, 20210313
